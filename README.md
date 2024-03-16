@@ -23,7 +23,7 @@ Output: [0,1]
 
 <h4>Constraints:</h4>
 
-2 <= nums.length <= 104
--109 <= nums[i] <= 109
--109 <= target <= 109
+2 <= nums.length <= 104\n
+-109 <= nums[i] <= 109\n
+-109 <= target <= 109\n
 Only one valid answer exists.
