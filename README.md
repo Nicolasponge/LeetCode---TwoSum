@@ -28,4 +28,4 @@ Output: [0,1]</ul>
 <ul>Only one valid answer exists.
 </ul>
 
-<h1 href="https://leetcode.com/Nicolasponge/">Link to my Leetcode profile</h1>
+<a href="https://leetcode.com/Nicolasponge/">Link to my Leetcode profile</a>
