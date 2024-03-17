@@ -28,4 +28,5 @@ Output: [0,1]</ul>
 <ul>Only one valid answer exists.
 </ul>
 
+<a href="https://leetcode.com/problems/two-sum/description/">Link to the problem<br></a>
 <a href="https://leetcode.com/Nicolasponge/">Link to my Leetcode profile</a>
